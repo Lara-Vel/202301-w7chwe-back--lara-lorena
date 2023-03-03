@@ -1,0 +1,24 @@
+{
+  "name": "base-backend",
+  "version": "1.0.0",
+  "description": "## Pasos iniciales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorenaAnayaDiaz/backend-review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LorenaAnayaDiaz/backend-review/issues"
+  },
+  "homepage": "https://github.com/LorenaAnayaDiaz/backend-review#readme",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "prettier": "^2.8.4"
+  }
+}
